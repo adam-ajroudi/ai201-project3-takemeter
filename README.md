@@ -188,20 +188,6 @@ The gap likely stems from two sources: (1) hot_take is the hardest boundary in o
 
 ---
 
-## Demo Video
-
-> **TODO (Adam):** Record 3–5 min demo and paste link here.
-
-**Link:** TBD
-
-Demo should show:
-- 3–5 posts classified with label + confidence
-- 1 correct prediction explained
-- 1 wrong prediction explained
-- Brief evaluation metrics walkthrough
-
----
-
 ## How to Run
 
 ### 1. Colab Notebook
